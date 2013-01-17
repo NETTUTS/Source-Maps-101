@@ -1,6 +1,6 @@
-#Introduction to Source Maps
+#Source Maps 101
 
-To play with the code, refer to the [original article in Nettuts](http://net.tutsplus.com/articles/news/introduction-to-source-maps).
+To play with the code, refer to the [original article in Nettuts](http://net.tutsplus.com/tutorials/tools-and-tips/source-maps-101/).
 
 There are 2 options to follow through the tutorial:
 
